@@ -1,3 +1,5 @@
-# myOnlineCinema
+# My Online Cinema
 
-Web App for Movies and their short details, just to consume TMDB API
+__Web App for Movies and their short detail__.
+
+**Make sure you run with internet connection in order to view the rendered data from TMDB.**
