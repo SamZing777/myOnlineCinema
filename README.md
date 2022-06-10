@@ -1,2 +1,3 @@
 # myOnlineCinema
-Web app for movies, consuming TMDB API.
+
+Web App for Movies and their short details, just to consume TMDB API
